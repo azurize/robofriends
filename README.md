@@ -1,0 +1,1 @@
+Basic front-end project utilizing HTML5, CSS3, and React.js
