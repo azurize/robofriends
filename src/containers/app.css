@@ -4,7 +4,7 @@
     font-family: "Blade Runner";
     font-style: normal;
     font-weight: normal;
-    src: local("Blade Runner"), url("./fonts/blade_runner.woff") format("woff");
+    src: local("Blade Runner"), url("../fonts/blade_runner.woff") format("woff");
 }
 
 .roboHeader {
